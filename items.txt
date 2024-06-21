@@ -1,0 +1,67 @@
+Candies
+candies_name1
+descr3
+4.5
+50
+2020 10 31
+Bucket
+bucket_name2
+descr2
+15.5
+22
+Bucket
+bucket_name1
+descr2
+9.05
+12
+Shoes
+shoes_name 2
+descr 1
+25.5
+16711681
+48
+Bucket
+bucket_name2
+descr2
+15.5
+22
+Candies
+candies_name1
+descr3
+4.5
+50
+2020 10 31
+Shoes
+shoes_name1
+descr 1
+25.5
+16711680
+48
+Shoes
+shoes_name 2
+descr 1
+25.5
+0
+48
+Bucket
+bucket_name1
+descr2
+9.05
+12
+Shoes
+shoes_name 2
+descr 1
+25.5
+0
+48
+Bucket
+bucket_name2
+descr2
+15.5
+22
+Candies
+candies_name1
+descr3
+4.5
+50
+2020 10 31
